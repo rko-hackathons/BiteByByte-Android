@@ -15,7 +15,8 @@ Uses the following APK plugins for support:
   com.svox.langpack.installer_1.0.1.apk
   com.google.android.marvin.talkback-v3.5.0_b3_r103.apk
 
-The unsigned APK is available [here] (https://github.com/mkobar/BiteByByte-Android/releases/tag/0.8) 
+The unsigned APK is available [here](https://github.com/mkobar/BiteByByte-Android/releases/tag/0.8) 
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
-Copyright (c) 2013 [RKO Security] (http://www.rkosecurity.com)
+Released under the [MIT License](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2013 [RKO Security](http://www.rkosecurity.com)
