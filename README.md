@@ -17,6 +17,8 @@ Uses the following APK plugins for support:
 
 The unsigned APK is available [here](https://github.com/mkobar/BiteByByte-Android/releases/tag/0.8) 
 
+---
+
 Released under the [MIT License](http://opensource.org/licenses/MIT)
 
 Copyright (c) 2013 [RKO Security](http://www.rkosecurity.com)
